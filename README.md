@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/markaguilar"><img src="https://api.daily.dev/devcards/v2/JKdvmP5QlFibW1MHtYzoo.png?r=lcm&type=default" width="356" alt="Mark Ferdinan Aguilar's Dev Card"/></a>
 
 
-              - name: Metrics embed
-                uses: lowlighter/metrics@v3.34
+- name: Metrics embed
+uses: lowlighter/metrics@v3.34
             
