@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/markaguilar"><img src="https://api.daily.dev/devcards/v2/JKdvmP5QlFibW1MHtYzoo.png?r=lcm&type=default" width="356" alt="Mark Ferdinan Aguilar's Dev Card"/></a>
+<a href="https://app.daily.dev/markaguilar"><img src="https://api.daily.dev/devcards/v2/JKdvmP5QlFibW1MHtYzoo.png?type=wide&r=hex" width="652" alt="MARK FERDINAN BACUS AGUILAR's Dev Card"/></a>
