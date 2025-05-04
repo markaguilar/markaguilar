@@ -11,6 +11,7 @@ I'm currently open for **commissions, freelance, and collaboration** — especia
   <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   <img src="https://img.shields.io/badge/-Next_._JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=green&color=3C873A" alt="nodejs" />
   <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white&color=303030" alt="express" />
   <img src="https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748" alt="prisma" />
   <img src="https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098&color=1a1a1a" alt="graphql" />
