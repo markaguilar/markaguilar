@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Mark Aguilar
 
-I'm a passionate **Full Stack Web Developer** who loves building modern web applications with clean, scalable code.  
-I'm currently open for **commissions, freelance, and collaboration** — especially on full-stack projects using **React, Node, Next.js**, and more!
+Learning & Writing Codes.
 
 ---
 
