@@ -20,6 +20,7 @@ Learning & Writing Codes.
   <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900&color=232F3E" alt="aws" />
   <img src="https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure&logoColor=0089D6&color=1a1a1a" alt="azure" />
   <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
+  <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
 </div>
 
 ---
